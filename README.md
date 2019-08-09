@@ -1,5 +1,5 @@
 # 50-Years-of-Pop-Music-Lyrics
-Song Trends
+
 The  dataset contains Billboard Year-End Hot 100 songs between 1965 and 2015. The dataset contains 5,100 observations. The dataset includes the following features: rank, song, artist, year, lyrics, and source.
 
 This Shiny app has multiple tabs with funstionality as follows:-
