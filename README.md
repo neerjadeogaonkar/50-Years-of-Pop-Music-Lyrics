@@ -11,3 +11,8 @@ This Shiny app has multiple tabs with funstionality as follows:-
 3) Using a chart show which words appear most frequently in the titles of the songs (exclude any stopword)? Have these words changed over time?
 
 4) Create a sentiment word cloud of lyrics
+
+
+Here's a link to the dataset
+
+https://www.kaggle.com/rakannimer/billboard-lyrics
